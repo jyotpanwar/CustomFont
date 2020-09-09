@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{9006D654-7177-4997-9DD3-7D79FDB1053B}|Default">
+  <MonoDevelop.Ide.ItemProperties.CustomFontDemo.Android AndroidDesignerPreferredTheme="MainTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.4d008f85e0653200" />
+  <MonoDevelop.Ide.ItemProperties.CustomFontDemo.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="CustomFontDemo/App.xaml" Line="40" Column="38" />
+      <File FileName="CustomFontDemo.Android/Resources/values/styles.xml" Line="22" Column="53" />
+      <File FileName="CustomFontDemo.Android/Resources/layout/Tabbar.xml" Line="11" Column="54" />
+      <File FileName="CustomFontDemo.Android/MainActivity.cs" Line="28" Column="40" />
+      <File FileName="CustomFontDemo.Android/Resources/layout/AlertDialog.xml" Line="2" Column="45" />
+      <File FileName="CustomFontDemo.Android/Resources/layout/Toolbar.xml" Line="10" Column="23" />
+      <File FileName="CustomFontDemo/Views/AboutPage.xaml" Line="48" Column="43" />
+      <File FileName="CustomFontDemo/Views/ItemDetailPage.xaml" Line="9" Column="15" />
+      <File FileName="CustomFontDemo.Android/Resources/values/colors.xml" Line="7" Column="13" />
+      <File FileName="CustomFontDemo/Views/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="CustomFontDemo/Views/NewItemPage.xaml" Line="12" Column="20" />
+      <File FileName="CustomFontDemo/Views/ItemsPage.xaml" Line="5" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomFontDemo" expanded="True" selected="True">
+            <Node name="CustomFontDemo" expanded="True">
+              <Node name="Views" expanded="True" />
+            </Node>
+            <Node name="CustomFontDemo.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,1 @@
+<android.support.v7.widget.AlertDialogLayout android:id="@+id/alertDialogLayout1" android:layout_width="match_parent" android:layout_height="wrap_content" app:tabTextAppearance="@style/Widget.TextView.Font" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android" />
